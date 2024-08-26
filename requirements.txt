@@ -1,0 +1,4 @@
+discord~=2.3.2
+spotipy~=2.24.0
+asyncio~=3.4.3
+pytube~=15.0.0
